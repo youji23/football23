@@ -1,0 +1,113 @@
+/* إعداد التصميم الأساسي */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* تصميم الهيدر */
+header {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 26px;
+    color: yellow;
+}
+
+/* تحسين عناصر التحكم */
+button, input[type="date"] {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: 0.3s ease-in-out;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;
+    transform: scale(1.05);
+}
+
+input[type="date"] {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+/* تحسين عرض البطاقات */
+#matchesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    padding: 20px;
+}
+
+/* تصميم البطاقة بشكل أصغر وأكثر أناقة */
+.match-card {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 3px 7px rgba(255, 255, 255, 0.3);
+    width: 220px;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+}
+
+.match-card:hover {
+    transform: scale(1.05);
+}
+
+/* تحسين عرض الفرق والنتيجة */
+.match-card .teams {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.match-card .score {
+    font-size: 20px;
+    color: yellow;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+/* تحسين حالة المباراة */
+.match-card .status {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 6px;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+/* تحسين ألوان الحالات */
+.status.finished {
+    background-color: #28a745;
+    color: white;
+}
+
+.status.live {
+    background-color: #dc3545;
+    color: white;
+}
+
+.status.upcoming {
+    background-color: #ffc107;
+    color: black;
+}

@@ -1,18 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="ar">
 <head>
-    <title>مباريات اليوم</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مباريات الدوري الإنجليزي الممتاز</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>جدول مباريات اليوم</h1>
-    <table id="matches">
-        <tr>
-            <th>الفريق الأول</th>
-            <th>الفريق الثاني</th>
-            <th>النتيجة</th>
-        </tr>
-    </table>
+
+    <header>
+        <h1>مباريات الدوري الإنجليزي الممتاز</h1>
+        <input type="date" id="matchDate">
+        <button id="yesterday">أمس</button>
+        <button id="today">اليوم</button>
+        <button id="tomorrow">غدًا</button>
+    </header>
+
+    <main id="matchesContainer"></main>
+
     <script src="script.js"></script>
 </body>
 </html>
