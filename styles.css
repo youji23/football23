@@ -1,0 +1,194 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  text-align: right;
+}
+
+.page-title {
+  text-align: center;
+  padding: 20px;
+  background-color: transparent;
+  color: yellow;
+  margin: 0;
+  font-size: 32px;
+}
+
+.date-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+#date-picker {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  background-color: #111;
+  color: white;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: yellow;
+  color: black;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: orange;
+}
+
+.competition-section {
+  margin: 20px auto;
+  max-width: 900px;
+  background-color: #111;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #555;
+}
+
+.competition-section h2 {
+  margin-top: 0;
+  color: yellow;
+  margin-bottom: 20px;
+}
+
+.match-item {
+  border-top: 1px solid #555;
+  padding: 15px 0;
+  background-color: #222;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.teams-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.team-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 35%;
+}
+
+.team-left img,
+.team-right img {
+  width: 50px;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+.match-divider {
+  font-size: 20px;
+  color: yellow;
+}
+
+.score {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 5px 0;
+  color: yellow;
+}
+
+/* ✅ زر التفاصيل محسّن */
+.details-btn {
+  background-color: yellow;
+  color: black;
+  border: none;
+  padding: 8px 18px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+  cursor: pointer;
+}
+
+.details-btn:hover {
+  background-color: orange;
+}
+
+/* ✅ تفاصيل المباراة محسّنة */
+.details {
+  margin-top: 12px;
+  background-color: #2a2a2a;
+  border-right: 4px solid yellow;
+  padding: 12px;
+  border-radius: 8px;
+  color: white;
+}
+
+/* ✅ معلومات الوقت والتاريخ وحالة المباراة بشكل واضح ومنسق */
+.centered-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+  direction: ltr;
+}
+
+.centered-info p {
+  margin: 3px 0;
+  color: #fff;
+  font-size: 14px;
+}
+
+/* ✅ تقسيم تفاصيل الفرق */
+.team-details-split {
+  display: flex;
+  justify-content: space-between;
+  direction: rtl;
+  text-align: right;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.team-details-column {
+  flex: 1;
+}
+
+.vertical-divider {
+  width: 2px;
+  background-color: yellow;
+  margin: 0 10px;
+}
+
+/* ✅ عنصر الهدف */
+.goal-item {
+  background-color: #a3d977;
+  padding: 6px 10px;
+  margin-bottom: 5px;
+  border-radius: 6px;
+  width: 100%;
+  display: block;
+  color: black;
+  font-weight: bold;
+}
+
+/* ✅ زر التفاصيل المحاط */
+.details-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

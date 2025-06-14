@@ -1,0 +1,196 @@
+{
+  "فرق": [
+    {
+      "الاسم": "مانشستر سيتي",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/e/eb/Manchester_City_FC_badge.svg"
+    },
+    {
+      "الاسم": "ريال مدريد",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/5/56/Real_Madrid_CF.svg"
+    },
+    {
+      "الاسم": "بايرن ميونخ",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg"
+    },
+    {
+      "الاسم": "باريس سان جيرمان",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/a/a7/Paris_Saint-Germain_F.C..svg"
+    },
+    {
+      "الاسم": "إنتر ميلان",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg"
+    },
+    {
+      "الاسم": "بنفيكا",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/8/87/Logo_slb-01.svg"
+    },
+    {
+      "الاسم": "بورتو",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/f/f1/FC_Porto.svg"
+    },
+    {
+      "الاسم": "بوروسيا دورتموند",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
+    },
+    {
+      "الاسم": "أتلتيكو مدريد",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/3/33/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88_%D9%85%D8%AF%D8%B1%D9%8A%D8%AF_%282024%29.svg"
+    },
+    {
+      "الاسم": "تشيلسي",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/c/cc/Chelsea_FC.svg"
+    },
+    {
+      "الاسم": "ريد بول سالزبورغ",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/9/95/FC_Red_Bull_Salzburg.svg"
+    },
+    {
+      "الاسم": "يوفنتوس",
+      "النوع": "نادي",
+      "القارة": "أوروبا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg"
+    },
+    {
+      "الاسم": "الأهلي",
+      "النوع": "نادي",
+      "القارة": "أفريقيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/2/21/Al_Ahly_SC_logo_23.svg"
+    },
+    {
+      "الاسم": "الوداد الرياضي",
+      "النوع": "نادي",
+      "القارة": "أفريقيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/5/58/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%282022%29.svg"
+    },
+    {
+      "الاسم": "الترجي الرياضي التونسي",
+      "النوع": "نادي",
+      "القارة": "أفريقيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/0/05/%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A.png"
+    },
+    {
+      "الاسم": "ماميلودي صن داونز",
+      "النوع": "نادي",
+      "القارة": "أفريقيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/b/bb/Mamelodi_Sundowns_logo.svg"
+    },
+    {
+      "الاسم": "الهلال",
+      "النوع": "نادي",
+      "القارة": "آسيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/5/55/Al_Hilal_SFC_Logo.svg"
+    },
+    {
+      "الاسم": "اوراوا ريدز",
+      "النوع": "نادي",
+      "القارة": "آسيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/7/73/Urawa_Red_Diamonds.svg"
+    },
+    {
+      "الاسم": "العين",
+      "النوع": "نادي",
+      "القارة": "آسيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/1/1c/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%B9%D9%8A%D9%86_%28%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%29.svg"
+    },
+    {
+      "الاسم": "أولسان هيونداي",
+      "النوع": "نادي",
+      "القارة": "آسيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/6/61/Ulsan_HD_FC.svg"
+    },
+    {
+      "الاسم": "فلامنغو",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg"
+    },
+    {
+      "الاسم": "فلومينينسي",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fluminense_FC_escudo.png"
+    },
+    {
+      "الاسم": "ريفر بليت",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Escudo_del_C_A_River_Plate.svg"
+    },
+    {
+      "الاسم": "بوكا جونيورز",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Boca_Juniors_logo18.svg"
+    },
+    {
+      "الاسم": "بالميراس",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg"
+    },
+    {
+      "الاسم": "بوتافوغو",
+      "النوع": "نادي",
+      "القارة": "أمريكا الجنوبية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg"
+    },
+    {
+      "الاسم": "مونتيري",
+      "النوع": "نادي",
+      "القارة": "أمريكا الشمالية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/commons/3/35/Club_de_F%C3%BAtbol_Monterrey_2019_Logo.svg"
+    },
+    {
+      "الاسم": "باتشوكا",
+      "النوع": "نادي",
+      "القارة": "أمريكا الشمالية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/9/93/Pachuca_Tuzos_logo.svg"
+    },
+    {
+      "الاسم": "سياتل ساوندرز",
+      "النوع": "نادي",
+      "القارة": "أمريكا الشمالية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/3/39/Seattle_Sounders_FC_%282024%29.svg"
+    },
+    {
+      "الاسم": "إنتر ميامي",
+      "النوع": "نادي",
+      "القارة": "أمريكا الشمالية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/5/5c/Inter_Miami_CF_logo.svg"
+    },
+    {
+      "الاسم": "أوكلاند سيتي",
+      "النوع": "نادي",
+      "القارة": "أوقيانوسيا",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/7/74/Auckland_City_FC_%282022%29.svg"
+    },
+    {
+      "الاسم": "لوس أنجلوس",
+      "النوع": "نادي",
+      "القارة": "أمريكا الشمالية",
+      "الشعار": "https://upload.wikimedia.org/wikipedia/ar/1/1c/LAFC.svg"
+    }
+  ]
+}

@@ -1,0 +1,1836 @@
+{
+  "matches": [
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "فنلندا",
+      "team2": "بولندا",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "جويل بوهيانبالو",
+          "minute": "31",
+          "assist": null,
+          "penalty": true,
+          "team": "home"
+        },
+        {
+          "scorer": "بنجامين كالمان",
+          "minute": "64",
+          "assist": "أوليفر أنتمان",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ياكوب كيفير",
+          "minute": "69",
+          "assist": null,
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ نيكولاي ألهو",
+          "out": "↓ فريدريك ينسين",
+          "minute": 63,
+          "team": "home"
+        },
+        {
+          "in": "↑ بنجامين كالمان",
+          "out": "↓ جويل بوهيانبالو",
+          "minute": 63,
+          "team": "home"
+        },
+        {
+          "in": "↑ إلماري نيسكانين",
+          "out": "↓ يير أورونن",
+          "minute": 71,
+          "team": "home"
+        },
+        {
+          "in": "↑ روبرت ايفانوف",
+          "out": "↓ روبن لود",
+          "minute": 86,
+          "team": "home"
+        },
+        {
+          "in": "↑ تيمو بوكي",
+          "out": "↓ أوليفر أنتمان",
+          "minute": 86,
+          "team": "home"
+        },
+        {
+          "in": "↑ ياكوب كامينسكي",
+          "out": "↓ كارول سويدرسكي",
+          "minute": 58,
+          "team": "away"
+        },
+        {
+          "in": "↑ أدم بوكسا",
+          "out": "↓ كرزيستوف بياتيك",
+          "minute": 86,
+          "team": "away"
+        },
+        {
+          "in": "↑ ياكوب بيوتروفسكي",
+          "out": "↓ جاكوب مودر",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "كان كايرينين",
+          "type": "yellow",
+          "minute": 35,
+          "team": "home"
+        },
+        {
+          "player": "يان بيدناريك",
+          "type": "yellow",
+          "minute": 34,
+          "team": "away"
+        },
+        {
+          "player": "نيكولا زاليفسكي",
+          "type": "yellow",
+          "minute": 902,
+          "team": "away"
+        }
+      ],
+      "var": []
+    },
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "رومانيا",
+      "team2": "قبرص",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "فلورين تاناسي",
+          "minute": "43",
+          "assist": "دينيس مان",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "دينيس مان",
+          "minute": "45+2",
+          "assist": "دينيس دراجوس",
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ ماريوس مارين",
+          "out": "↓ فلاد كيريكيش",
+          "minute": 56,
+          "team": "home"
+        },
+        {
+          "in": "↑ ألكسندرو ميتريتا",
+          "out": "↓ فالنتين ميهايلا",
+          "minute": 56,
+          "team": "home"
+        },
+        {
+          "in": "↑ دنيس أليبك",
+          "out": "↓ فلورين تاناسي",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ فيرجيل غيتا",
+          "out": "↓ أندري بوركا",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ ديفيد ميكوليسكو",
+          "out": "↓ دينيس مان",
+          "minute": 82,
+          "team": "home"
+        },
+        {
+          "in": "↑ تشارالمبوس تشارالامبوس",
+          "out": "↓ إيونيس كوستي",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ ماريوس إيليا",
+          "out": "↓ لويزوس لويزو",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ نيكولاس كوتساكوس",
+          "out": "↓ أندرونيكوس كاكوليس",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ مارينوس تزيونيس",
+          "out": "↓ أنديرسون كوريا",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ كوستاكيس أرتيماتاس",
+          "out": "↓ خارالامبوس كيرياكو",
+          "minute": 81,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "فلورين تاناسي",
+          "type": "yellow",
+          "minute": 26,
+          "team": "home"
+        },
+        {
+          "player": "غريغوريس كاستانوس",
+          "type": "yellow",
+          "minute": 24,
+          "team": "away"
+        },
+        {
+          "player": "جيانيس ساتسياس",
+          "type": "yellow",
+          "minute": 64,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "39",
+          "team": "away",
+          "player": "جويل مال",
+          "note": "تم تعديل البطاقة"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "سان مارينو",
+      "team2": "النمسا",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "ماركو أرناوتوفيتش",
+          "minute": "3",
+          "assist": "ستيفان بوش",
+          "penalty": false,
+          "team": "away"
+        },
+        {
+          "scorer": "مايكل غريغوريتش",
+          "minute": "11",
+          "assist": "كونراد لايمر",
+          "penalty": false,
+          "team": "away"
+        },
+        {
+          "scorer": "ماركو أرناوتوفيتش",
+          "minute": "15",
+          "assist": "مارسيل سابيتزر",
+          "penalty": false,
+          "team": "away"
+        },
+        {
+          "scorer": "كريستوف باومجارتنر",
+          "minute": "27",
+          "assist": "ماركو أرناوتوفيتش",
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ نيكو سينسولي",
+          "out": "↓ أندريا كونتاديني",
+          "minute": 22,
+          "team": "home"
+        },
+        {
+          "in": "↑ ماتيو كاسادي",
+          "out": "↓ لورينزو كابيكيوني",
+          "minute": 63,
+          "team": "home"
+        },
+        {
+          "in": "↑ مارسيلو مولاروني",
+          "out": "↓ صامويل زانوني",
+          "minute": 72,
+          "team": "home"
+        },
+        {
+          "in": "↑ نيكولا جياكوبيتي",
+          "out": "↓ نيكولا ناني",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ ثيرنو بالو",
+          "out": "↓ مايكل غريغوريتش",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ توبياس لاوال",
+          "out": "↓ باتريك بينتز",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ ليوبولد كويرفيلد",
+          "out": "↓ فيليب لينهارت",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ رومانو شميد",
+          "out": "↓ كونراد لايمر",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ ماركو جرول",
+          "out": "↓ كريستوف باومجارتنر",
+          "minute": 63,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "ألبرتو ريكاردي",
+          "type": "yellow",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "player": "ثيرنو بالو",
+          "type": "yellow",
+          "minute": 59,
+          "team": "away"
+        },
+        {
+          "player": "ستيفان بوش",
+          "type": "yellow",
+          "minute": 66,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "55",
+          "team": "away",
+          "player": "مارسيل سابيتزر",
+          "note": "لا وجود لهدف"
+        },
+        {
+          "minute": "67",
+          "team": "away",
+          "player": "ماتياس هونساك",
+          "note": "لا وجود لهدف"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "لاتفيا",
+      "team2": "ألبانيا",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "أنتونيس تشيرنومورديجس",
+          "minute": "45+4",
+          "assist": "أندريس سيجانيكس",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "أنتونيس تشيرنومورديجس",
+          "minute": "29",
+          "assist": null,
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ إدواردز داسكيفيتش",
+          "out": "↓ يانيس إيكاونيكس",
+          "minute": 75,
+          "team": "home"
+        },
+        {
+          "in": "↑ ماركو ريجا",
+          "out": "↓ جوتكوفسكيس",
+          "minute": 75,
+          "team": "home"
+        },
+        {
+          "in": "↑ لوكاس فابني",
+          "out": "↓ ألكسيجس سافيلجيفس",
+          "minute": 82,
+          "team": "home"
+        },
+        {
+          "in": "↑ مكسيم تونيسيف",
+          "out": "↓ رينار فارسلافانس",
+          "minute": 90,
+          "team": "home"
+        },
+        {
+          "in": "↑ إرنست موتشي",
+          "out": "↓ أربير خوجا",
+          "minute": 60,
+          "team": "away"
+        },
+        {
+          "in": "↑ نديم بايرامي",
+          "out": "↓ كاظم لاتشي",
+          "minute": 69,
+          "team": "away"
+        },
+        {
+          "in": "↑ ميرليند داكو",
+          "out": "↓ راي ماناج",
+          "minute": 82,
+          "team": "away"
+        },
+        {
+          "in": "↑ ميرتو اوزوني",
+          "out": "↓ أرماندو بروجا",
+          "minute": 82,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "أندريس سيجانيكس",
+          "type": "yellow",
+          "minute": 50,
+          "team": "home"
+        },
+        {
+          "player": "رينار فارسلافانس",
+          "type": "yellow",
+          "minute": 69,
+          "team": "home"
+        },
+        {
+          "player": "أنتونيس تشيرنومورديجس",
+          "type": "yellow",
+          "minute": 84,
+          "team": "home"
+        }
+      ],
+      "var": []
+    },
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "صربيا",
+      "team2": "أندورا",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "ميتروفيتش",
+          "minute": "12",
+          "assist": "دوشان فلاهوفيتش",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ميتروفيتش",
+          "minute": "24",
+          "assist": "أندريا زيفكوفيتش",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ميتروفيتش",
+          "minute": "53",
+          "assist": null,
+          "penalty": true,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ ستيفان ميتروفيتش",
+          "out": "↓ أليكسا تيرزيتش",
+          "minute": 60,
+          "team": "home"
+        },
+        {
+          "in": "↑ أندريا ماكسيموفيتش",
+          "out": "↓ ألكسندر كاتاي",
+          "minute": 61,
+          "team": "home"
+        },
+        {
+          "in": "↑ يوروش راتشيتش",
+          "out": "↓ نيمانيا غوديلي",
+          "minute": 61,
+          "team": "home"
+        },
+        {
+          "in": "↑ جان سيميتش",
+          "out": "↓ نيمانيا ستوييتش",
+          "minute": 76,
+          "team": "home"
+        },
+        {
+          "in": "↑ نيكولا ستوليتش",
+          "out": "↓ ميتروفيتش",
+          "minute": 83,
+          "team": "home"
+        },
+        {
+          "in": "↑ إريك إزكويردو",
+          "out": "↓ إريك فاليس",
+          "minute": 66,
+          "team": "away"
+        },
+        {
+          "in": "↑ ألكسندر مارتينيز",
+          "out": "↓ آرون رودريغو",
+          "minute": 66,
+          "team": "away"
+        },
+        {
+          "in": "↑ ريكارد فرنانديز",
+          "out": "↓ غيوم لوبيز",
+          "minute": 67,
+          "team": "away"
+        },
+        {
+          "in": "↑ داكو",
+          "out": "↓ جوان سيرفوس",
+          "minute": 79,
+          "team": "away"
+        },
+        {
+          "in": "↑ جواو تيكسيرا",
+          "out": "↓ مارك فاليس",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "يوروش راتشيتش",
+          "type": "yellow",
+          "minute": 75,
+          "team": "home"
+        },
+        {
+          "player": "إيكر ألفاريز",
+          "type": "yellow",
+          "minute": 44,
+          "team": "away"
+        },
+        {
+          "player": "إريك إزكويردو",
+          "type": "yellow",
+          "minute": 85,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "51",
+          "team": "home",
+          "player": "دوشان فلاهوفيتش",
+          "note": "VAR"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "time": "7:45 م",
+      "status": "انتهت",
+      "competition": "تصفيات كأس العالم أوروبا",
+      "team1": "هولندا",
+      "team2": "مالطا",
+      "score": {
+        "ft": [
+          8,
+          0
+        ]
+      },
+      "goals": [
+        {
+          "scorer": "ممفيس ديباي",
+          "minute": "9",
+          "assist": null,
+          "penalty": true,
+          "team": "home"
+        },
+        {
+          "scorer": "ممفيس ديباي",
+          "minute": "16",
+          "assist": "دينزل دومفريس",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "فان دايك",
+          "minute": "20",
+          "assist": "فرينكي دي يونج",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "تشافي سيمونز",
+          "minute": "61",
+          "assist": "ممفيس ديباي",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "دونيل مالين",
+          "minute": "74",
+          "assist": "ميكي فان دي فين",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "نوا لانج",
+          "minute": "78",
+          "assist": "دونيل مالين",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "دونيل مالين",
+          "minute": "80",
+          "assist": "فرينكي دي يونج",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ميكي فان دي فين",
+          "minute": "90+2",
+          "assist": null,
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ نوا لانج",
+          "out": "↓ كودي خاكبو",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ ماتس فيفر",
+          "out": "↓ ريان خرافنبرخ",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ فوتر فيغورست",
+          "out": "↓ جوستين كلويفرت",
+          "minute": 62,
+          "team": "home"
+        },
+        {
+          "in": "↑ دونيل مالين",
+          "out": "↓ ممفيس ديباي",
+          "minute": 72,
+          "team": "home"
+        },
+        {
+          "in": "↑ لوتشاريل جيرترويدا",
+          "out": "↓ دينزل دومفريس",
+          "minute": 79,
+          "team": "home"
+        },
+        {
+          "in": "↑ كورت شو",
+          "out": "↓ آدم ماجري أوفيرند",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ بيزل توما",
+          "out": "↓ خوان كوربالان",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ جودي جونز",
+          "out": "↓ تيدي تيوما",
+          "minute": 60,
+          "team": "away"
+        },
+        {
+          "in": "↑ جيك أزوباردي",
+          "out": "↓ أليكساندر ساتاريانو",
+          "minute": 81,
+          "team": "away"
+        },
+        {
+          "in": "↑ مايلز بيرمان",
+          "out": "↓ ريان كامنزولي",
+          "minute": 81,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "نوا لانج",
+          "type": "yellow",
+          "minute": 64,
+          "team": "home"
+        },
+        {
+          "player": "تيدي تيوما",
+          "type": "yellow",
+          "minute": 34,
+          "team": "away"
+        },
+        {
+          "player": "ماثيو غيوموير",
+          "type": "yellow",
+          "minute": 56,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "7",
+          "team": "home",
+          "player": "جوستين كلويفرت",
+          "note": "إلغاء ضربة جزاء"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-15",
+      "time": "1:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الأهلي",
+      "team2": "إنتر ميامي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-15",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بايرن ميونخ",
+      "team2": "أوكلاند سيتي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-15",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "باريس سان جيرمان",
+      "team2": "أتلتيكو مدريد",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-15",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بالميراس",
+      "team2": "بورتو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-15",
+      "time": "3:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بوتافوغو",
+      "team2": "سياتل ساوندرز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-16",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بالميراس",
+      "team2": "بورتو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-16",
+      "time": "3:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بوتافوغو",
+      "team2": "سياتل ساوندرز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-16",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "تشيلسي",
+      "team2": "لوس أنجلوس",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-16",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بوكا جونيورز",
+      "team2": "بنفيكا",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-16",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلامنغو",
+      "team2": "الترجي الرياضي التونسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بوكا جونيورز",
+      "team2": "بنفيكا",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلامنغو",
+      "team2": "الترجي الرياضي التونسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلومينينسي",
+      "team2": "بوروسيا دورتموند",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريفر بليت",
+      "team2": "اوراوا ريدز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "أولسان هيونداي",
+      "team2": "ماميلودي صن داونز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-17",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "مونتيري",
+      "team2": "إنتر ميلان",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "أولسان هيونداي",
+      "team2": "ماميلودي صن داونز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "مونتيري",
+      "team2": "إنتر ميلان",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "مانشستر سيتي",
+      "team2": "الوداد الرياضي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريال مدريد",
+      "team2": "الهلال",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "باتشوكا",
+      "team2": "ريد بول سالزبورغ",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-18",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "العين",
+      "team2": "يوفنتوس",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "باتشوكا",
+      "team2": "ريد بول سالزبورغ",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "العين",
+      "team2": "يوفنتوس",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بالميراس",
+      "team2": "الأهلي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميامي",
+      "team2": "بورتو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "سياتل ساوندرز",
+      "team2": "أتلتيكو مدريد",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-19",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "باريس سان جيرمان",
+      "team2": "بوتافوغو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "سياتل ساوندرز",
+      "team2": "أتلتيكو مدريد",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "باريس سان جيرمان",
+      "team2": "بوتافوغو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بنفيكا",
+      "team2": "أوكلاند سيتي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "7:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلامنغو",
+      "team2": "تشيلسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "لوس أنجلوس",
+      "team2": "الترجي الرياضي التونسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-20",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بايرن ميونخ",
+      "team2": "بوكا جونيورز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "لوس أنجلوس",
+      "team2": "الترجي الرياضي التونسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بايرن ميونخ",
+      "team2": "بوكا جونيورز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ماميلودي صن داونز",
+      "team2": "بوروسيا دورتموند",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميلان",
+      "team2": "اوراوا ريدز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلومينينسي",
+      "team2": "أولسان هيونداي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-21",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريفر بليت",
+      "team2": "مونتيري",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "فلومينينسي",
+      "team2": "أولسان هيونداي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريفر بليت",
+      "team2": "مونتيري",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "5:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "يوفنتوس",
+      "team2": "الوداد الرياضي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريال مدريد",
+      "team2": "باتشوكا",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريد بول سالزبورغ",
+      "team2": "الهلال",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-22",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "مانشستر سيتي",
+      "team2": "العين",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "11:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريد بول سالزبورغ",
+      "team2": "الهلال",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "مانشستر سيتي",
+      "team2": "العين",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "سياتل ساوندرز",
+      "team2": "باريس سان جيرمان",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "أتلتيكو مدريد",
+      "team2": "بوتافوغو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميامي",
+      "team2": "بالميراس",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بورتو",
+      "team2": "الأهلي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميامي",
+      "team2": "بالميراس",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بورتو",
+      "team2": "الأهلي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بنفيكا",
+      "team2": "بايرن ميونخ",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "أوكلاند سيتي",
+      "team2": "بوكا جونيورز",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الترجي الرياضي التونسي",
+      "team2": "تشيلسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-24",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "لوس أنجلوس",
+      "team2": "فلامنغو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الترجي الرياضي التونسي",
+      "team2": "تشيلسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "لوس أنجلوس",
+      "team2": "فلامنغو",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ماميلودي صن داونز",
+      "team2": "فلومينينسي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "بوروسيا دورتموند",
+      "team2": "أولسان هيونداي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميلان",
+      "team2": "ريفر بليت",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-25",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "اوراوا ريدز",
+      "team2": "مونتيري",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "إنتر ميلان",
+      "team2": "ريفر بليت",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "اوراوا ريدز",
+      "team2": "مونتيري",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "يوفنتوس",
+      "team2": "مانشستر سيتي",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "8:00 م",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الوداد الرياضي",
+      "team2": "العين",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريد بول سالزبورغ",
+      "team2": "ريال مدريد",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-26",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الهلال",
+      "team2": "باتشوكا",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-27",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "ريد بول سالزبورغ",
+      "team2": "ريال مدريد",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    },
+    {
+      "date": "2025-06-27",
+      "time": "2:00 ص",
+      "status": "غير معروف",
+      "competition": "كأس العالم للأندية",
+      "team1": "الهلال",
+      "team2": "باتشوكا",
+      "score": {
+        "ft": []
+      },
+      "goals": [],
+      "substitutions": [],
+      "cards": [],
+      "var": []
+    }
+  ]
+}

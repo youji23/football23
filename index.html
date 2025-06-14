@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>مباريات اليوم</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1 class="page-title">مباريات اليوم</h1>
+
+  <div class="date-controls">
+    <button id="prev-day">اليوم السابق</button>
+    <input type="date" id="date-picker" />
+    <button id="next-day">اليوم التالي</button>
+  </div>
+
+  <div id="matches-container">
+    <div class="competition-section">
+      <h2>دوري الأمم الأوروبية</h2>
+
+      <div class="match-item">
+        <div class="teams-container">
+          <div class="team-column team-right">
+            <img src="flags/france.png" alt="فرنسا" />
+            <span>فرنسا</span>
+          </div>
+          <div class="score">2 - 1</div>
+          <div class="team-column team-left">
+            <img src="flags/spain.png" alt="إسبانيا" />
+            <span>إسبانيا</span>
+          </div>
+        </div>
+
+        <div class="details">
+          <div class="team-details right">
+            <div class="event goal">
+              <div class="event-time">12'</div>
+              <div class="event-text">كيليان مبابي</div>
+            </div>
+            <div class="event card">
+              <div class="event-time">45+1'</div>
+              <div class="event-text">كانتي</div>
+            </div>
+          </div>
+
+          <div class="team-details left">
+            <div class="event goal">
+              <div class="event-time">22'</div>
+              <div class="event-text">ألفارو موراتا</div>
+            </div>
+            <div class="event substitution">
+              <div class="event-time">65'</div>
+              <div class="event-text">فاتي ← بيدري</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
