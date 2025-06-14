@@ -1,62 +1,42 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>مباريات اليوم</title>
+  <title>مباريات اليوم - جدول مباريات كرة القدم</title>
+
+  <!-- 🟡 وصف الموقع لمحركات البحث -->
+  <meta name="description" content="موقع يعرض جدول مباريات اليوم في كرة القدم لجميع البطولات مع توقيت المباراة ونتائجها وتفاصيل الفرق بشكل دقيق.">
+
+  <!-- 🟡 كلمات مفتاحية للبحث -->
+  <meta name="keywords" content="مباريات اليوم, كرة القدم, جدول المباريات, نتائج المباريات, مباريات مباشرة, دوري أبطال أوروبا, الدوري الإنجليزي, الدوري الإسباني">
+
+  <!-- 🟡 اسم الكاتب -->
+  <meta name="author" content="هارون">
+
+  <!-- 🟡 تحسين السوشيال ميديا (اختياري) -->
+  <meta property="og:title" content="مباريات اليوم - جدول المباريات">
+  <meta property="og:description" content="تابع نتائج المباريات لحظة بلحظة، واحصل على جدول المباريات اليومية بتفاصيل كاملة.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ar_AR">
+
+  <!-- 🟡 رابط الأيقونة (favicon) إن وجدت -->
+  <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
   <h1 class="page-title">مباريات اليوم</h1>
 
-  <div class="date-controls">
+  <div class="date-controls" aria-label="أدوات اختيار التاريخ">
     <button id="prev-day">اليوم السابق</button>
-    <input type="date" id="date-picker" />
+    <input type="date" id="date-picker" aria-label="اختيار التاريخ">
     <button id="next-day">اليوم التالي</button>
   </div>
 
-  <div id="matches-container">
-    <div class="competition-section">
-      <h2>دوري الأمم الأوروبية</h2>
-
-      <div class="match-item">
-        <div class="teams-container">
-          <div class="team-column team-right">
-            <img src="flags/france.png" alt="فرنسا" />
-            <span>فرنسا</span>
-          </div>
-          <div class="score">2 - 1</div>
-          <div class="team-column team-left">
-            <img src="flags/spain.png" alt="إسبانيا" />
-            <span>إسبانيا</span>
-          </div>
-        </div>
-
-        <div class="details">
-          <div class="team-details right">
-            <div class="event goal">
-              <div class="event-time">12'</div>
-              <div class="event-text">كيليان مبابي</div>
-            </div>
-            <div class="event card">
-              <div class="event-time">45+1'</div>
-              <div class="event-text">كانتي</div>
-            </div>
-          </div>
-
-          <div class="team-details left">
-            <div class="event goal">
-              <div class="event-time">22'</div>
-              <div class="event-text">ألفارو موراتا</div>
-            </div>
-            <div class="event substitution">
-              <div class="event-time">65'</div>
-              <div class="event-text">فاتي ← بيدري</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  <div id="matches-container" aria-label="قائمة المباريات">
+    <!-- المباريات ستُضاف هنا عبر JavaScript -->
   </div>
 
   <script src="script.js"></script>
