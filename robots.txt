@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youji23.github.io/football23/sitemap.xml
