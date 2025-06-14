@@ -11,10 +11,11 @@ body {
 .page-title {
   text-align: center;
   padding: 20px;
-  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.05);
   color: yellow;
   margin: 0;
   font-size: 32px;
+  box-shadow: 0 2px 6px rgba(255, 255, 0, 0.2);
 }
 
 .date-controls {
@@ -26,13 +27,14 @@ body {
 }
 
 #date-picker {
-  padding: 8px;
+  padding: 10px;
   font-size: 16px;
-  border-radius: 5px;
+  border-radius: 6px;
   border: none;
-  text-align: center;
-  background-color: #111;
-  color: white;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
 }
 
 button {
@@ -43,35 +45,43 @@ button {
   color: black;
   border: none;
   font-weight: bold;
-  border-radius: 5px;
-  transition: background 0.3s;
+  border-radius: 6px;
+  transition: 0.3s ease-in-out;
 }
 
 button:hover {
-  background-color: orange;
+  background-color: white;
+  transform: scale(1.05);
 }
 
 .competition-section {
   margin: 20px auto;
   max-width: 900px;
-  background-color: #111;
-  padding: 15px;
-  border-radius: 10px;
-  border: 1px solid #555;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(255, 255, 255, 0.2);
+  border: 1px solid #444;
 }
 
 .competition-section h2 {
   margin-top: 0;
   color: yellow;
   margin-bottom: 20px;
+  font-size: 24px;
 }
 
 .match-item {
-  border-top: 1px solid #555;
-  padding: 15px 0;
-  background-color: #222;
+  background-color: rgba(255, 255, 255, 0.07);
   border-radius: 10px;
+  padding: 15px;
   margin-bottom: 20px;
+  box-shadow: 0 3px 6px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.match-item:hover {
+  transform: scale(1.01);
 }
 
 .teams-container {
@@ -108,7 +118,7 @@ button:hover {
   color: yellow;
 }
 
-/* ✅ زر التفاصيل محسّن */
+/* زر التفاصيل محسّن */
 .details-btn {
   background-color: yellow;
   color: black;
@@ -117,25 +127,27 @@ button:hover {
   font-size: 14px;
   font-weight: bold;
   border-radius: 6px;
-  transition: background 0.3s ease;
+  transition: 0.3s ease-in-out;
   cursor: pointer;
 }
 
 .details-btn:hover {
-  background-color: orange;
+  background-color: white;
+  transform: scale(1.05);
 }
 
-/* ✅ تفاصيل المباراة محسّنة */
+/* تفاصيل المباراة محسّنة */
 .details {
   margin-top: 12px;
-  background-color: #2a2a2a;
+  background-color: rgba(255, 255, 255, 0.08);
   border-right: 4px solid yellow;
   padding: 12px;
   border-radius: 8px;
   color: white;
+  box-shadow: inset 0 0 10px rgba(255, 255, 0, 0.1);
 }
 
-/* ✅ معلومات الوقت والتاريخ وحالة المباراة بشكل واضح ومنسق */
+/* معلومات الوقت والتاريخ وحالة المباراة */
 .centered-info {
   display: flex;
   flex-direction: column;
@@ -154,7 +166,7 @@ button:hover {
   font-size: 14px;
 }
 
-/* ✅ تقسيم تفاصيل الفرق */
+/* تقسيم تفاصيل الفرق */
 .team-details-split {
   display: flex;
   justify-content: space-between;
@@ -174,7 +186,7 @@ button:hover {
   margin: 0 10px;
 }
 
-/* ✅ عنصر الهدف */
+/* عنصر الهدف */
 .goal-item {
   background-color: #a3d977;
   padding: 6px 10px;
@@ -186,7 +198,7 @@ button:hover {
   font-weight: bold;
 }
 
-/* ✅ زر التفاصيل المحاط */
+/* زر التفاصيل المحاط */
 .details-button-container {
   display: flex;
   justify-content: center;
