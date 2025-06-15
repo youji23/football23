@@ -853,15 +853,150 @@
     {
       "date": "2025-06-15",
       "time": "5:00 م",
-      "status": "انتهت",
+      "status": "غير معروف",
       "competition": "كأس العالم للأندية",
       "team1": "بايرن ميونخ",
       "team2": "أوكلاند سيتي",
       "score": {
-        "ft": []
+        "ft": [
+          10,
+          0
+        ]
       },
-      "goals": [],
-      "substitutions": [],
+      "goals": [
+        {
+          "scorer": "كينغسلي كومان",
+          "minute": "6",
+          "assist": "جوناثان تاه",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ساشا بوي",
+          "minute": "18",
+          "assist": "كينغسلي كومان",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "مايكل أوليز",
+          "minute": "20",
+          "assist": null,
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "كينغسلي كومان",
+          "minute": "21",
+          "assist": "مايكل أوليز",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "توماس مولر",
+          "minute": "45",
+          "assist": "مايكل أوليز",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "مايكل أوليز",
+          "minute": "45+3",
+          "assist": "ساشا بوي",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "جمال موسيالا",
+          "minute": "67",
+          "assist": "توماس مولر",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "جمال موسيالا",
+          "minute": "73",
+          "assist": null,
+          "penalty": true,
+          "team": "home"
+        },
+        {
+          "scorer": "جمال موسيالا",
+          "minute": "84",
+          "assist": null,
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "توماس مولر",
+          "minute": "89",
+          "assist": "سيرجي غنابري",
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ سيرجي غنابري",
+          "out": "↓ كينغسلي كومان",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ لينارت كارل",
+          "out": "↓ مايكل أوليز",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ جمال موسيالا",
+          "out": "↓ هاري كين",
+          "minute": 61,
+          "team": "home"
+        },
+        {
+          "in": "↑ دايوت أوباميكانو",
+          "out": "↓ رافاييل غيريرو",
+          "minute": 61,
+          "team": "home"
+        },
+        {
+          "in": "↑ آدم أزنو",
+          "out": "↓ يوسيب ستانيشيتش",
+          "minute": 82,
+          "team": "home"
+        },
+        {
+          "in": "↑ جيرسون لاغوس",
+          "out": "↓ ناثان لوبو",
+          "minute": 66,
+          "team": "away"
+        },
+        {
+          "in": "↑ تونغ زو",
+          "out": "↓ جيرارد جاريجا",
+          "minute": 66,
+          "team": "away"
+        },
+        {
+          "in": "↑ أنجوس كيلكولي",
+          "out": "↓ ديلان مانيكوم",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ ريان فريس",
+          "out": "↓ ديفيد يو",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ ألفي روجرز",
+          "out": "↓ مايكل هيجر",
+          "minute": 82,
+          "team": "away"
+        }
+      ],
       "cards": [],
       "var": []
     },
