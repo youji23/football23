@@ -1003,17 +1003,178 @@
     {
       "date": "2025-06-15",
       "time": "8:00 م",
-      "status": "انتهت",
+      "status": "غير معروف",
       "competition": "كأس العالم للأندية",
       "team1": "باريس سان جيرمان",
       "team2": "أتلتيكو مدريد",
       "score": {
-        "ft": []
+        "ft": [
+          4,
+          0
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
-      "var": []
+      "goals": [
+        {
+          "scorer": "فابيان رويز",
+          "minute": "19",
+          "assist": "كفاراتسخيليا",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "فيتينيا",
+          "minute": "45+1",
+          "assist": "كفاراتسخيليا",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "سيني مايولو",
+          "minute": "87",
+          "assist": "إبراهيم مباي",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "لي كانغ إن",
+          "minute": "90+7",
+          "assist": null,
+          "penalty": true,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ سيني مايولو",
+          "out": "↓ غونشالو راموس",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ وارن زاير إيمري",
+          "out": "↓ كفاراتسخيليا",
+          "minute": 72,
+          "team": "home"
+        },
+        {
+          "in": "↑ لي كانغ إن",
+          "out": "↓ فابيان رويز",
+          "minute": 72,
+          "team": "home"
+        },
+        {
+          "in": "↑ لوكاس هيرنانديز",
+          "out": "↓ نونو مينديش",
+          "minute": 80,
+          "team": "home"
+        },
+        {
+          "in": "↑ إبراهيم مباي",
+          "out": "↓ ديزيري دوي",
+          "minute": 80,
+          "team": "home"
+        },
+        {
+          "in": "↑ كوكي",
+          "out": "↓ سامويل لينو",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ أنخيل كوريا",
+          "out": "↓ جوليانو سيميوني",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ كونور غالاغير",
+          "out": "↓ رودريغو دي بول",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ رينيلدو ماندافا",
+          "out": "↓ خافي غالان",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ ألكسندر سورلوث",
+          "out": "↓ بابلو باريوس",
+          "minute": 70,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "فابيان رويز",
+          "type": "yellow",
+          "minute": 28,
+          "team": "home"
+        },
+        {
+          "player": "ماركينيوس",
+          "type": "yellow",
+          "minute": 62,
+          "team": "home"
+        },
+        {
+          "player": "كليمو لينجليه",
+          "type": "yellow",
+          "minute": 21,
+          "team": "away"
+        },
+        {
+          "player": "روبين لو نورماند",
+          "type": "yellow",
+          "minute": 26,
+          "team": "away"
+        },
+        {
+          "player": "جوليانو سيميوني",
+          "type": "yellow",
+          "minute": 29,
+          "team": "away"
+        },
+        {
+          "player": "كوكي",
+          "type": "yellow",
+          "minute": 48,
+          "team": "away"
+        },
+        {
+          "player": "أنخيل كوريا",
+          "type": "yellow",
+          "minute": 63,
+          "team": "away"
+        },
+        {
+          "player": "رينيلدو ماندافا",
+          "type": "yellow",
+          "minute": 64,
+          "team": "away"
+        },
+        {
+          "player": "كليمو لينجليه",
+          "type": "red",
+          "minute": 78,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "90+5",
+          "team": "home",
+          "player": "سيني مايولو",
+          "note": "ضربة جزاء صحيحة"
+        },
+        {
+          "minute": "59",
+          "team": "away",
+          "player": "خوليان ألفاريز",
+          "note": "لا وجود لهدف"
+        }
+      ]
     },
     {
       "date": "2025-06-15",
