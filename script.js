@@ -93,40 +93,44 @@ document.addEventListener("DOMContentLoaded", function () {
           const matchStatus = getMatchStatus(match.date, match.time);
 
           function getEvents(teamType) {
-            let events = [];
-            sortByMinute(match.goals.filter(g => g.team === teamType)).forEach(g => {
-              const isPenalty = g.penalty === true;
-              const scorerName = isPenalty ? `${g.scorer} (ض.ج)` : g.scorer;
-              events.push({
-                minute: parseInt(g.minute),
-                content: `<li style="background-color:#3a6ea5;padding:4px 8px;border-radius:8px;display:inline-block;margin-bottom:4px;color:#fff">⚽ ${scorerName} (${g.minute}') </li>` +
-                  (g.assist ? `<li>صناعة ${g.assist}</li>` : "")
-              });
-            });
+  let events = [];
 
-            sortByMinute(match.substitutions.filter(s => s.team === teamType)).forEach(s => {
-              events.push({
-                minute: parseInt(s.minute),
-                content: `<li><span style="color:red">${s.out}</span> <span style="color:green">${s.in}</span> (${s.minute}')</li>`
-              });
-            });
+  sortByMinute(match.goals.filter(g => g.team === teamType)).forEach(g => {
+    const isPenalty = g.penalty === true;
+    const scorerName = isPenalty ? `${g.scorer} (ض.ج)` : g.scorer;
+    events.push({
+      minute: parseInt(g.minute),
+      content: `<li class="event-item goal">⚽ ${scorerName} (${g.minute}')</li>` +
+        (g.assist ? `<li class="event-item assist">صناعة ${g.assist}</li>` : "")
+    });
+  });
 
-            sortByMinute(match.cards.filter(c => c.team === teamType)).forEach(c => {
-              events.push({
-                minute: parseInt(c.minute),
-                content: `<li>${c.type === "yellow" ? "🟨" : "🟥"} ${c.player} (${c.minute}')</li>`
-              });
-            });
+  sortByMinute(match.substitutions.filter(s => s.team === teamType)).forEach(s => {
+    events.push({
+      minute: parseInt(s.minute),
+      content: `<li class="event-item sub"><span style="color:red">${s.out}</span> <span style="color:green">${s.in}</span> (${s.minute}')</li>`
+    });
+  });
 
-            (match.var || []).filter(v => v.team === teamType).sort((a, b) => a.minute - b.minute).forEach(v => {
-              events.push({
-                minute: parseInt(v.minute),
-                content: `<li>فار ${v.player} - ${v.note} (${v.minute}')</li>`
-              });
-            });
+  sortByMinute(match.cards.filter(c => c.team === teamType)).forEach(c => {
+    events.push({
+      minute: parseInt(c.minute),
+      content: `<li class="event-item card">${c.type === "yellow" ? "🟨" : "🟥"} ${c.player} (${c.minute}')</li>`
+    });
+  });
 
-            return events.sort((a, b) => a.minute - b.minute).map(e => e.content).join("");
-          }
+  (match.var || []).filter(v => v.team === teamType).sort((a, b) => a.minute - b.minute).forEach(v => {
+    events.push({
+      minute: parseInt(v.minute),
+      content: `<li class="event-item var">فار ${v.player} - ${v.note} (${v.minute}')</li>`
+    });
+  });
+
+  return events
+    .sort((a, b) => a.minute - b.minute)
+    .map(e => e.content)
+    .join("");
+}
 
           const team1EventsHTML = getEvents("home");
           const team2EventsHTML = getEvents("away");
