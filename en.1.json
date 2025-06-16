@@ -1179,16 +1179,93 @@
     {
       "date": "2025-06-15",
       "time": "11:00 م",
-      "status": "انتهت",
+      "status": "غير معروف",
       "competition": "كأس العالم للأندية",
       "team1": "بالميراس",
       "team2": "بورتو",
       "score": {
-        "ft": []
+        "ft": [
+          0,
+          0
+        ]
       },
       "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "substitutions": [
+        {
+          "in": "↑ آلان أندرادي إلياس",
+          "out": "↓ إستيفاو",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ باولينيو",
+          "out": "↓ فيليبي أندرسون",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ رفائيل فيغا",
+          "out": "↓ ماوريسيو",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ لوكاس إيفانجيليستا",
+          "out": "↓ ريتشارد ريوس",
+          "minute": 87,
+          "team": "home"
+        },
+        {
+          "in": "↑ بيبي",
+          "out": "↓ غابري فيغا",
+          "minute": 67,
+          "team": "away"
+        },
+        {
+          "in": "↑ نيهان بيريز",
+          "out": "↓ جواو نيتو",
+          "minute": 78,
+          "team": "away"
+        },
+        {
+          "in": "↑ أندريه فرانكو",
+          "out": "↓ فابيو فيريرا",
+          "minute": 82,
+          "team": "away"
+        },
+        {
+          "in": "↑ توماس بيريز",
+          "out": "↓ آلان فاريلا",
+          "minute": 82,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "فيليبي أندرسون",
+          "type": "yellow",
+          "minute": 9,
+          "team": "home"
+        },
+        {
+          "player": "غوستافو غوميز",
+          "type": "yellow",
+          "minute": 62,
+          "team": "home"
+        },
+        {
+          "player": "مارتيم فرنانديز",
+          "type": "yellow",
+          "minute": 15,
+          "team": "away"
+        },
+        {
+          "player": "نيهان بيريز",
+          "type": "yellow",
+          "minute": 901,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
