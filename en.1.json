@@ -1276,11 +1276,122 @@
       "team1": "بوتافوغو",
       "team2": "سياتل ساوندرز",
       "score": {
-        "ft": []
+        "ft": [
+          2,
+          1
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "جاير بولا",
+          "minute": "28",
+          "assist": "أليكس تيليس",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "إيغور جيسوس",
+          "minute": "44",
+          "assist": "فيتينيو",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "كريستيان رولدان",
+          "minute": "75",
+          "assist": "بول روثروك",
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ خواكين كوريا",
+          "out": "↓ جونزالو ماسترياني",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ آرثر كابرال",
+          "out": "↓ سافارينو",
+          "minute": 69,
+          "team": "home"
+        },
+        {
+          "in": "↑ كويابانو",
+          "out": "↓ أليكس تيليس",
+          "minute": 69,
+          "team": "home"
+        },
+        {
+          "in": "↑ دانيلو باربوسا",
+          "out": "↓ مارلون فريتاس",
+          "minute": 86,
+          "team": "home"
+        },
+        {
+          "in": "↑ سانتياغو رودريغيز",
+          "out": "↓ إيغور جيسوس",
+          "minute": 86,
+          "team": "home"
+        },
+        {
+          "in": "↑ جون بيل",
+          "out": "↓ كيم كي هي",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ ريد بيكر وايتنغ",
+          "out": "↓ نوهو تولو",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ بول روثروك",
+          "out": "↓ ريان كينت",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ بيدرو دي لا فيغا",
+          "out": "↓ جيسوس فيريرا",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ أوساز دي روزاريو",
+          "out": "↓ داني موسوفسكي",
+          "minute": 84,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "ألكسندر باربوزا",
+          "type": "yellow",
+          "minute": 61,
+          "team": "home"
+        },
+        {
+          "player": "خواكين كوريا",
+          "type": "yellow",
+          "minute": 64,
+          "team": "home"
+        },
+        {
+          "player": "نوهو تولو",
+          "type": "yellow",
+          "minute": 27,
+          "team": "away"
+        },
+        {
+          "player": "جاكسون راجين",
+          "type": "yellow",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
