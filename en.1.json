@@ -1673,11 +1673,115 @@
       "team1": "فلامنغو",
       "team2": "الترجي الرياضي التونسي",
       "score": {
-        "ft": []
+        "ft": [
+          2,
+          0
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "دي أراسكايتا",
+          "minute": "17",
+          "assist": "لويز أراوخو",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "لويز أراوخو",
+          "minute": "70",
+          "assist": "جورجينيو",
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ برونو هنريكي",
+          "out": "↓ بيدرو",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ غونزالو بلاتا",
+          "out": "↓ جيرسون دا سيلفا",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ ميشيل ديلغادو",
+          "out": "↓ دي أراسكايتا",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ آلان رودريغيز",
+          "out": "↓ جورجينيو",
+          "minute": 74,
+          "team": "home"
+        },
+        {
+          "in": "↑ إيفرتون",
+          "out": "↓ لويز أراوخو",
+          "minute": 901,
+          "team": "home"
+        },
+        {
+          "in": "↑ عبدالرحمن كوناتي",
+          "out": "↓ شهاب الجبالي",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ إلياس موكوانا",
+          "out": "↓ يان ساس",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ محمد الدربالي",
+          "out": "↓ خليل القنيشي",
+          "minute": 75,
+          "team": "away"
+        },
+        {
+          "in": "↑ رائد بوشنيبة",
+          "out": "↓ محمد بن علي",
+          "minute": 84,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "برونو هنريكي",
+          "type": "yellow",
+          "minute": 84,
+          "team": "home"
+        },
+        {
+          "player": "محمد بن علي",
+          "type": "yellow",
+          "minute": 25,
+          "team": "away"
+        },
+        {
+          "player": "يوسف بلايلي",
+          "type": "yellow",
+          "minute": 38,
+          "team": "away"
+        },
+        {
+          "player": "خليل القنيشي",
+          "type": "yellow",
+          "minute": 64,
+          "team": "away"
+        },
+        {
+          "player": "محمد توغاي",
+          "type": "yellow",
+          "minute": 69,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
