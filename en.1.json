@@ -1402,11 +1402,127 @@
       "team1": "تشيلسي",
       "team2": "لوس أنجلوس",
       "score": {
-        "ft": []
+        "ft": [
+          2,
+          0
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "بيدرو نيتو",
+          "minute": "34",
+          "assist": "نيكولاس جاكسون",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "اينزو فرنانديز",
+          "minute": "79",
+          "assist": "ليام ديلاب",
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ اينزو فرنانديز",
+          "out": "↓ روميو لافيا",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ مالو غوستو",
+          "out": "↓ ريس جيمس",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ ليام ديلاب",
+          "out": "↓ نيكولاس جاكسون",
+          "minute": 64,
+          "team": "home"
+        },
+        {
+          "in": "↑ تيريك جورج",
+          "out": "↓ نوني مادويكي",
+          "minute": 64,
+          "team": "home"
+        },
+        {
+          "in": "↑ داريو إيسوغو",
+          "out": "↓ مويسيس كايسيدو",
+          "minute": 84,
+          "team": "home"
+        },
+        {
+          "in": "↑ كريستوفر نكونكو",
+          "out": "↓ كول بالمر",
+          "minute": 84,
+          "team": "home"
+        },
+        {
+          "in": "↑ ديفيد مارتينيز",
+          "out": "↓ ناثان أورداز",
+          "minute": 38,
+          "team": "away"
+        },
+        {
+          "in": "↑ أوليفيه جيرو",
+          "out": "↓ جيريمي إبوبيس",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ فرانكي أمايا",
+          "out": "↓ ايجور جيسوس",
+          "minute": 81,
+          "team": "away"
+        },
+        {
+          "in": "↑ مارلون سانتوس",
+          "out": "↓ تيموثي تيلمان",
+          "minute": 87,
+          "team": "away"
+        },
+        {
+          "in": "↑ ياو يبواه",
+          "out": "↓ ماركي ديلجادو",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "ريس جيمس",
+          "type": "yellow",
+          "minute": 36,
+          "team": "home"
+        },
+        {
+          "player": "توسين أدارابيويو",
+          "type": "yellow",
+          "minute": 45,
+          "team": "home"
+        },
+        {
+          "player": "مارك كوكوريا",
+          "type": "yellow",
+          "minute": 75,
+          "team": "home"
+        },
+        {
+          "player": "ديفيد مارتينيز",
+          "type": "yellow",
+          "minute": 58,
+          "team": "away"
+        },
+        {
+          "player": "سيرجي بالنسيا",
+          "type": "yellow",
+          "minute": 902,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
@@ -1417,12 +1533,137 @@
       "team1": "بوكا جونيورز",
       "team2": "بنفيكا",
       "score": {
-        "ft": []
+        "ft": [
+          2,
+          2
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
-      "var": []
+      "goals": [
+        {
+          "scorer": "ميجيل ميرينتييل",
+          "minute": "21",
+          "assist": "لوتارو بلانكو",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "رودريجو باتاجليا",
+          "minute": "27",
+          "assist": "أيرتون كوستا",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "أنخيل دي ماريا",
+          "minute": "45+3",
+          "assist": null,
+          "penalty": true,
+          "team": "away"
+        },
+        {
+          "scorer": "نيكولاس أوتاميندي",
+          "minute": "84",
+          "assist": "أوركون كوكو",
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ توماس بيلمونت",
+          "out": "↓ أندير هيريرا",
+          "minute": 20,
+          "team": "home"
+        },
+        {
+          "in": "↑ ميلتون خيمينيز",
+          "out": "↓ آلان فيلاسكو",
+          "minute": 58,
+          "team": "home"
+        },
+        {
+          "in": "↑ إكسيكييل زيبالوس",
+          "out": "↓ ميجيل ميرينتييل",
+          "minute": 65,
+          "team": "home"
+        },
+        {
+          "in": "↑ ويليامز ألاركون",
+          "out": "↓ كارلوس بالاسيوس",
+          "minute": 66,
+          "team": "home"
+        },
+        {
+          "in": "↑ أندريا بيلوتي",
+          "out": "↓ سامويل دال",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ محمد أكتورك",
+          "out": "↓ بروما",
+          "minute": 61,
+          "team": "away"
+        },
+        {
+          "in": "↑ أوركون كوكو",
+          "out": "↓ ريناتدو سانشيز",
+          "minute": 61,
+          "team": "away"
+        },
+        {
+          "in": "↑ جيانلوكا بريستياني",
+          "out": "↓ أنخيل دي ماريا",
+          "minute": 77,
+          "team": "away"
+        },
+        {
+          "in": "↑ ليوناردو باريرو",
+          "out": "↓ فلورينتينو لويس",
+          "minute": 90,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "أندير هيريرا",
+          "type": "red",
+          "minute": 45,
+          "team": "home"
+        },
+        {
+          "player": "كارلوس بالاسيوس",
+          "type": "yellow",
+          "minute": 66,
+          "team": "home"
+        },
+        {
+          "player": "خورخي فيغال",
+          "type": "red",
+          "minute": 88,
+          "team": "home"
+        },
+        {
+          "player": "فانجيليس بافليديس",
+          "type": "yellow",
+          "minute": 68,
+          "team": "away"
+        },
+        {
+          "player": "أندريا بيلوتي",
+          "type": "red",
+          "minute": 72,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "44",
+          "team": "away",
+          "player": "نيكولاس أوتاميندي",
+          "note": "ضربة جزاء صحيحة"
+        }
+      ]
     },
     {
       "date": "2025-06-17",
