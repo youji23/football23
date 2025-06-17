@@ -1792,11 +1792,94 @@
       "team1": "فلومينينسي",
       "team2": "بوروسيا دورتموند",
       "score": {
-        "ft": []
+        "ft": [
+          0,
+          0
+        ]
       },
       "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "substitutions": [
+        {
+          "in": "↑ خيرمان كانو",
+          "out": "↓ إيفيرالدو ستوم",
+          "minute": 70,
+          "team": "home"
+        },
+        {
+          "in": "↑ كيفن سيرنا",
+          "out": "↓ أغوستين كانوبيو",
+          "minute": 70,
+          "team": "home"
+        },
+        {
+          "in": "↑ ليما",
+          "out": "↓ ماتيوس مارتينيلي",
+          "minute": 76,
+          "team": "home"
+        },
+        {
+          "in": "↑ باولو بايا",
+          "out": "↓ نوناتو",
+          "minute": 87,
+          "team": "home"
+        },
+        {
+          "in": "↑ جوب بيلينغهام",
+          "out": "↓ باسكال غروس",
+          "minute": 59,
+          "team": "away"
+        },
+        {
+          "in": "↑ فيليكس نميشا",
+          "out": "↓ كريم أديمي",
+          "minute": 59,
+          "team": "away"
+        },
+        {
+          "in": "↑ كارني تشوكويميكا",
+          "out": "↓ مارسيل سابيتزر",
+          "minute": 77,
+          "team": "away"
+        },
+        {
+          "in": "↑ جيمي غيتينز",
+          "out": "↓ يوليان براندت",
+          "minute": 77,
+          "team": "away"
+        },
+        {
+          "in": "↑ يان كوتو",
+          "out": "↓ جوليان رايرسون",
+          "minute": 86,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "ماتيوس مارتينيلي",
+          "type": "yellow",
+          "minute": 9,
+          "team": "home"
+        },
+        {
+          "player": "نوناتو",
+          "type": "yellow",
+          "minute": 81,
+          "team": "home"
+        },
+        {
+          "player": "رامي بن سبعيني",
+          "type": "yellow",
+          "minute": 2,
+          "team": "away"
+        },
+        {
+          "player": "يان كوتو",
+          "type": "yellow",
+          "minute": 904,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
