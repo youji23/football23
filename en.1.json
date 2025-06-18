@@ -2035,12 +2035,104 @@
       "team1": "أولسان هيونداي",
       "team2": "ماميلودي صن داونز",
       "score": {
-        "ft": []
+        "ft": [
+          0,
+          1
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
-      "var": []
+      "goals": [
+        {
+          "scorer": "إكرام راينر",
+          "minute": "36",
+          "assist": "لوكاس ريبيرو",
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ ماتياس لاكافا",
+          "out": "↓ إي تشونغ يونغ",
+          "minute": 64,
+          "team": "home"
+        },
+        {
+          "in": "↑ هي جيون لي",
+          "out": "↓ داريجان بويانيتش",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ لي جين هيون",
+          "out": "↓ جونغ وو يونغ",
+          "minute": 73,
+          "team": "home"
+        },
+        {
+          "in": "↑ كانغ سانغ وو",
+          "out": "↓ ميونغ كوان سيو",
+          "minute": 80,
+          "team": "home"
+        },
+        {
+          "in": "↑ تاشريك ماثيوز",
+          "out": "↓ آرثر ساليز",
+          "minute": 65,
+          "team": "away"
+        },
+        {
+          "in": "↑ باتوسي اوباس",
+          "out": "↓ ثيمبا زواني",
+          "minute": 77,
+          "team": "away"
+        },
+        {
+          "in": "↑ ليبو موتهيبا",
+          "out": "↓ إكرام راينر",
+          "minute": 77,
+          "team": "away"
+        },
+        {
+          "in": "↑ جايدن آدامز",
+          "out": "↓ لوكاس ريبيرو",
+          "minute": 85,
+          "team": "away"
+        },
+        {
+          "in": "↑ موتوبي مفالا",
+          "out": "↓ كيانو كوبيدو",
+          "minute": 85,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "داريجان بويانيتش",
+          "type": "yellow",
+          "minute": 55,
+          "team": "home"
+        },
+        {
+          "player": "تيبوهو موكوينا",
+          "type": "yellow",
+          "minute": 86,
+          "team": "away"
+        }
+      ],
+      "var": [
+        {
+          "minute": "31",
+          "team": "away",
+          "player": "إكرام راينر",
+          "note": "لا وجود لهدف (لمسة يد)"
+        },
+        {
+          "minute": "39",
+          "team": "away",
+          "player": "إكرام راينر",
+          "note": "لا وجود لهدف (تسلل)"
+        }
+      ]
     },
     {
       "date": "2025-06-18",
@@ -2050,11 +2142,115 @@
       "team1": "مونتيري",
       "team2": "إنتر ميلان",
       "score": {
-        "ft": []
+        "ft": [
+          1,
+          1
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "سيرجيو راموس",
+          "minute": "25",
+          "assist": "أوليفر توريس",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "لاوتارو مارتينيز",
+          "minute": "42",
+          "assist": "كارلوس أوجوستو",
+          "penalty": false,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ إيريك أغويري",
+          "out": "↓ ريكاردو تشافيز سوتو",
+          "minute": 58,
+          "team": "home"
+        },
+        {
+          "in": "↑ نيلسون ديوسا",
+          "out": "↓ أوليفر توريس",
+          "minute": 58,
+          "team": "home"
+        },
+        {
+          "in": "↑ فيديل أمبريز",
+          "out": "↓ جيرمان بيرتيرام",
+          "minute": 79,
+          "team": "home"
+        },
+        {
+          "in": "↑ جوردي كورتيزو",
+          "out": "↓ لوكاس أوكامبوس",
+          "minute": 90,
+          "team": "home"
+        },
+        {
+          "in": "↑ يوهان روخاس",
+          "out": "↓ كاناليس",
+          "minute": 90,
+          "team": "home"
+        },
+        {
+          "in": "↑ لويس هنريكي",
+          "out": "↓ بنجامين بافارد",
+          "minute": 58,
+          "team": "away"
+        },
+        {
+          "in": "↑ ماركوس تورام",
+          "out": "↓ سيباستيانو إيسبوسيتو",
+          "minute": 58,
+          "team": "away"
+        },
+        {
+          "in": "↑ فيديريكو ديماركو",
+          "out": "↓ كارلوس أوجوستو",
+          "minute": 68,
+          "team": "away"
+        },
+        {
+          "in": "↑ بيتار سوتشيتش",
+          "out": "↓ كريستيان أسلاني",
+          "minute": 69,
+          "team": "away"
+        },
+        {
+          "in": "↑ نيكولا زاليفسكي",
+          "out": "↓ هينريك مخيتاريان",
+          "minute": 78,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "خاميس رودريغيز",
+          "type": "yellow",
+          "minute": 45,
+          "team": "home"
+        },
+        {
+          "player": "كريستيان أسلاني",
+          "type": "yellow",
+          "minute": 61,
+          "team": "away"
+        },
+        {
+          "player": "نيكولو باريلا",
+          "type": "yellow",
+          "minute": 89,
+          "team": "away"
+        },
+        {
+          "player": "لاوتارو مارتينيز",
+          "type": "yellow",
+          "minute": 905,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
