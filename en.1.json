@@ -2261,26 +2261,143 @@
       "team1": "مانشستر سيتي",
       "team2": "الوداد الرياضي",
       "score": {
-        "ft": []
+        "ft": [
+          2,
+          0
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "فيل فودين",
+          "minute": "2",
+          "assist": null,
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "جيريمي دوكو",
+          "minute": "42",
+          "assist": "فيل فودين",
+          "penalty": false,
+          "team": "home"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ أوسكار بوب",
+          "out": "↓ جيريمي دوكو",
+          "minute": 60,
+          "team": "home"
+        },
+        {
+          "in": "↑ إيرلينغ هالاند",
+          "out": "↓ ريان شرقي",
+          "minute": 60,
+          "team": "home"
+        },
+        {
+          "in": "↑ رودري",
+          "out": "↓ فيل فودين",
+          "minute": 60,
+          "team": "home"
+        },
+        {
+          "in": "↑ غوندوغان",
+          "out": "↓ عمر مرموش",
+          "minute": 69,
+          "team": "home"
+        },
+        {
+          "in": "↑ ماثيوس نونيز",
+          "out": "↓ سافينيو",
+          "minute": 902,
+          "team": "home"
+        },
+        {
+          "in": "↑ محمد رايحي",
+          "out": "↓ كاسيوس مايلولا",
+          "minute": 46,
+          "team": "away"
+        },
+        {
+          "in": "↑ مايكل مالسا",
+          "out": "↓ أسامة الزمراوي",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ سامويل أوبينج",
+          "out": "↓ نور الدين أمرابط",
+          "minute": 62,
+          "team": "away"
+        },
+        {
+          "in": "↑ إسماعيل المترجي",
+          "out": "↓ بارت مايرز",
+          "minute": 75,
+          "team": "away"
+        },
+        {
+          "in": "↑ ستيفان عزيز كي",
+          "out": "↓ ثيمبينكوسي لورش",
+          "minute": 84,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "ريكو لويس",
+          "type": "red",
+          "minute": 88,
+          "team": "home"
+        },
+        {
+          "player": "كاسيوس مايلولا",
+          "type": "yellow",
+          "minute": 16,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
       "date": "2025-06-18",
       "time": "8:00 م",
-      "status": "غير معروف",
+      "status": "بين الشوطين",
       "competition": "كأس العالم للأندية",
       "team1": "ريال مدريد",
       "team2": "الهلال",
       "score": {
-        "ft": []
+        "ft": [
+          1,
+          1
+        ]
       },
-      "goals": [],
+      "goals": [
+        {
+          "scorer": "غونزالو غارسيا",
+          "minute": "34",
+          "assist": "رودريغو",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "روبن نيفيز",
+          "minute": "41",
+          "assist": null,
+          "penalty": true,
+          "team": "away"
+        }
+      ],
       "substitutions": [],
-      "cards": [],
+      "cards": [
+        {
+          "player": "فينيسيوس جونيور",
+          "type": "yellow",
+          "minute": 15,
+          "team": "home"
+        }
+      ],
       "var": []
     },
     {
