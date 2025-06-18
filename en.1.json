@@ -1890,11 +1890,141 @@
       "team1": "ريفر بليت",
       "team2": "اوراوا ريدز",
       "score": {
-        "ft": []
+        "ft": [
+          3,
+          1
+        ]
       },
-      "goals": [],
-      "substitutions": [],
-      "cards": [],
+      "goals": [
+        {
+          "scorer": "فاكوندو كوليديو",
+          "minute": "12",
+          "assist": "ماركوس أكونيا",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "سيباستيان دريوسي",
+          "minute": "48",
+          "assist": null,
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "ماكسيميليانو ميزا",
+          "minute": "74",
+          "assist": "ماركوس أكونيا",
+          "penalty": false,
+          "team": "home"
+        },
+        {
+          "scorer": "يوسوك ماتسو",
+          "minute": "58",
+          "assist": null,
+          "penalty": true,
+          "team": "away"
+        }
+      ],
+      "substitutions": [
+        {
+          "in": "↑ جوليانو غالوبو",
+          "out": "↓ ناتشو فرنانديز",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ ماكسيميليانو ميزا",
+          "out": "↓ إنزو بيريز",
+          "minute": 46,
+          "team": "home"
+        },
+        {
+          "in": "↑ ميغيل بورخا",
+          "out": "↓ سيباستيان دريوسي",
+          "minute": 50,
+          "team": "home"
+        },
+        {
+          "in": "↑ غونزالو مارتينيز",
+          "out": "↓ فاكوندو كوليديو",
+          "minute": 74,
+          "team": "home"
+        },
+        {
+          "in": "↑ ميلتون كاسكو",
+          "out": "↓ ماركوس أكونيا",
+          "minute": 88,
+          "team": "home"
+        },
+        {
+          "in": "↑ تاكاهيرو سكينيي",
+          "out": "↓ تاكورو كانيكو",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ تياغو سانتانا",
+          "out": "↓ ماتيوس سافيو",
+          "minute": 71,
+          "team": "away"
+        },
+        {
+          "in": "↑ تايشي ماتسوموتو",
+          "out": "↓ كايتو ياسوي",
+          "minute": 81,
+          "team": "away"
+        },
+        {
+          "in": "↑ تاكويا أوجيوارا",
+          "out": "↓ يويتشي ناجوناما",
+          "minute": 81,
+          "team": "away"
+        },
+        {
+          "in": "↑ جينكي هاراجوتشي",
+          "out": "↓ سامويل غوستافسون",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
+      "cards": [
+        {
+          "player": "إنزو بيريز",
+          "type": "yellow",
+          "minute": 24,
+          "team": "home"
+        },
+        {
+          "player": "ماركوس أكونيا",
+          "type": "yellow",
+          "minute": 58,
+          "team": "home"
+        },
+        {
+          "player": "جيرمان بيزيلا",
+          "type": "yellow",
+          "minute": 60,
+          "team": "home"
+        },
+        {
+          "player": "جوليانو غالوبو",
+          "type": "yellow",
+          "minute": 902,
+          "team": "home"
+        },
+        {
+          "player": "سامويل غوستافسون",
+          "type": "yellow",
+          "minute": 34,
+          "team": "away"
+        },
+        {
+          "player": "ريوما واتانابي",
+          "type": "yellow",
+          "minute": 87,
+          "team": "away"
+        }
+      ],
       "var": []
     },
     {
